@@ -1,0 +1,13 @@
+{
+    "theme": "light",
+    "gravity": 9.81,
+    "simulation_speed": 1.0,
+    "path_duration": 2.0,
+    "path_color": [
+        50,
+        100,
+        200
+    ],
+    "show_wire": true,
+    "fps_limit": 60
+}
